@@ -1,7 +1,4 @@
-### Olá, me chamo **Matheus Schreiner**, sou de Minas Gerais - Brasil e atualmente estou estudando Desenvolvimento Web na Trybe 👋
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/matheus-schreiner/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusrubisch@gmail.com)
+Olá, me chamo **Matheus Schreiner**, sou de Minas Gerais - Brasil e atualmente estou estudando Desenvolvimento Web na Trybe 👋
 
 <img align="right" width="50%" src="./img/pc.png" style="padding-right:10% !important" >
 <br>
@@ -12,6 +9,11 @@
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 <!-- - 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações. -->
+
+Manda uma mensagem, ficarei feliz em poder conversar!!!
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/matheus-schreiner/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusrubisch@gmail.com)
 
 ----
 
@@ -30,8 +32,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> 
 </p>
-
-----
 
  <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSchreiner&langs_count=4&layout=compact&theme=tokyonight"
