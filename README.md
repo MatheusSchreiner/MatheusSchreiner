@@ -1,9 +1,9 @@
-### Olá, me chamo **Matheus Schreiner**, sou de Minas Gerais - Brasil e atualmente estou estudando Desenvolvimento Web na Trybe 👋
+Olá, me chamo **Matheus Schreiner**, sou de Minas Gerais - Brasil e atualmente estou estudando Desenvolvimento Web na Trybe 👋
 
 <img align="right" width="50%" src="./img/pc.png" style="padding-right:10% !important" >
 <br>
 
-#### Contente por te ver aqui!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${MatheusSchreiner}.${380019460})
+Contente por te ver aqui!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${MatheusSchreiner}.${380019460})
 
 - 🤔 Meus hobbies são Trilhas, Jogos online e uma boa Comida;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
@@ -16,10 +16,7 @@ Manda uma mensagem, ficarei feliz em poder conversar!!!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/matheus-schreiner/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusrubisch@gmail.com)
 
-<br>
-
 ----
-<br>
 
 ### **Linguagens e ferramentas:** 
 <br>
