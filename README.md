@@ -8,7 +8,7 @@ Contente por te ver aqui!  ![visitors](https://visitor-badge.glitch.me/badge?pag
 - 🤔 Meus hobbies são Trilhas, Jogos online e uma boa Comida;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- 📝 Veja meu Currículo <a href="https://bit.ly/3kKjfy7" target="_blank">clicando aqui</a> para mais informações.
+- 📝 Veja meu Currículo <a href="https://bit.ly/3zNdx2G" target="_blank">clicando aqui</a> para mais informações.
 <br>
 
 Manda uma mensagem, ficarei feliz em poder conversar!!!
