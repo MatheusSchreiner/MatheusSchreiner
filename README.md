@@ -11,7 +11,7 @@ Contente por te ver aqui!  ![visitors](https://visitor-badge.glitch.me/badge?pag
 - 📝 Veja meu Currículo <a href="https://bit.ly/3zNdx2G" target="_blank">clicando aqui</a> para mais informações.
 <br>
 
-Manda uma mensagem, ficarei feliz em poder conversar!!!
+Mande uma mensagem!!!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/matheus-schreiner/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusrubisch@gmail.com)
