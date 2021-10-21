@@ -23,7 +23,6 @@ Mande uma mensagem!!!
 ----
 
 ## **Tecnologias e Ferramentas:** 
-<br>
 
 ### **Linguagens**
 
