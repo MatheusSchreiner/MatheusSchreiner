@@ -24,9 +24,16 @@ Mande uma mensagem!!!
 
 ## **Tecnologias e Ferramentas:** 
 
-### **Linguagens**
+|Linguagens|Front-End|Back-End|Banco de Dados|Testes|
+|---|---|---|---|---|
+|![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)|![HTML 5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)|![NodeJs](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)|![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)|![jest](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg)|
+|![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)|![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)|![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg)|![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)|![Mocha](https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg)|
+|![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)|![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)|![Sequelize](https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg)||![Chai](https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg)|
 
-<p align="left" style="background-color:#FFFFFF; border-radius:20px; display:inline-block">
+
+<!-- ### **Linguagens**
+
+<p align="left">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
@@ -34,7 +41,7 @@ Mande uma mensagem!!!
 
 ### **Front-End**
 
-<p align="left" style="background-color:#FFFFFF; border-radius:20px; display:inline-block">
+<p align="left">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
@@ -43,7 +50,7 @@ Mande uma mensagem!!!
 
 ### **Back-End**
 
-<p align="left" style="background-color:#FFFFFF; border-radius:20px; display:inline-block">
+<p align="left">
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
   <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg">
@@ -51,14 +58,14 @@ Mande uma mensagem!!!
 
 ### **Banco de Dados**
 
-<p align="left" style="background-color:#FFFFFF; border-radius:20px; display:inline-block">
+<p align="left">
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
 </p>
 
 ### **Testes**
 
-<p align="left" style="background-color:#FFFFFF; border-radius:20px; display:inline-block">
+<p align="left">
   <img width="55" src="https://testing-library.com/img/octopus-128x128.png">
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
   <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg">
@@ -67,11 +74,11 @@ Mande uma mensagem!!!
 
 ### **Ferramentas**
 
-<p align="left" style="background-color:#FFFFFF; border-radius:20px; display:inline-block">
+<p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
   <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
   <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg">
-</p>
+</p> -->
 
 <!-- <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
