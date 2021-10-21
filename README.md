@@ -22,10 +22,59 @@ Mande uma mensagem!!!
 
 ----
 
-### **Linguagens e ferramentas:** 
+## **Tecnologias e Ferramentas:** 
 <br>
 
-<p align="left">
+### **Linguagens**
+
+<p align="left" style="background-color:#FFFFFF; border-radius:20px; display:inline-block">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+</p>
+
+### **Front-End**
+
+<p align="left" style="background-color:#FFFFFF; border-radius:20px; display:inline-block">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+  <img src="https://www.vectorlogo.zone/logos/reducer/reducer-ar21.svg">
+</p>
+
+### **Back-End**
+
+<p align="left" style="background-color:#FFFFFF; border-radius:20px; display:inline-block">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+  <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg">
+</p>
+
+### **Banco de Dados**
+
+<p align="left" style="background-color:#FFFFFF; border-radius:20px; display:inline-block">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+</p>
+
+### **Testes**
+
+<p align="left" style="background-color:#FFFFFF; border-radius:20px; display:inline-block">
+  <img width="55" src="https://testing-library.com/img/octopus-128x128.png">
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
+  <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg">
+  <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg">
+</p>
+
+### **Ferramentas**
+
+<p align="left" style="background-color:#FFFFFF; border-radius:20px; display:inline-block">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+  <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
+  <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg">
+</p>
+
+<!-- <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -37,7 +86,7 @@ Mande uma mensagem!!!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> 
-</p>
+</p> -->
 
 <br>
 
