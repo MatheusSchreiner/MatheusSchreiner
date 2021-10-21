@@ -1,6 +1,8 @@
 Olá, me chamo **Matheus Schreiner**, sou de Minas Gerais - Brasil e atualmente estou estudando Desenvolvimento Web na Trybe 👋
 
 <img align="right" width="50%" src="./img/pc.png" style="padding-right:10% !important" >
+<!-- <img alt="GIF" src="https://github.com/matheusschreiner/matheusschreiner/blob/master/rick.gif" /> -->
+<!-- <img alt="GIF" src="https://github.com/matheusschreiner/matheusschreiner/gifs/preview.gif" width="350" /> -->
 <br>
 
 Contente por te ver aqui!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${MatheusSchreiner}.${380019460})
