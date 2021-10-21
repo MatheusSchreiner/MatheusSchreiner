@@ -2,7 +2,7 @@ Olá, me chamo **Matheus Schreiner**, sou de Minas Gerais - Brasil e atualmente 
 
 <!-- <img align="right" width="50%" src="./img/pc.png" style="padding-right:10% !important" > -->
 
-<img align="center" alt="GIF" src="https://github.com/MatheusSchreiner/MatheusSchreiner/blob/main/gifs/preview.gif" widt="350 />
+<img align="center" alt="GIF" src="https://github.com/MatheusSchreiner/MatheusSchreiner/blob/main/gifs/preview.gif" width="350 />
 
 <!-- <img alt="GIF" src="https://github.com/MatheusSchreiner/MatheusSchreiner/blob/main/gifs/rick.gif" width="350" /> -->
 <br>
