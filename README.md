@@ -39,7 +39,7 @@ Mande uma mensagem!!!
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-  <img src="https://www.vectorlogo.zone/logos/reducer/reducer-ar21.svg">
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 </p>
 
 ### **Back-End**
