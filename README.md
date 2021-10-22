@@ -26,9 +26,15 @@ Mande uma mensagem!!!
 
 |Linguagens|Front-End|Back-End|Banco de Dados|Testes|
 |---|---|---|---|---|
+|<img alt="Java Script" width="130px" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=#F7DF1E" />|<img alt="HTML 5" width="105px" src="https://img.shields.io/badge/HTML%205-black?style=flat&logo=html5&logoColor=#E34F26" />|<img alt="Node JS" width="108px" src="https://img.shields.io/badge/Node%20Js-black?style=flat&logo=node.js&logoColor=#339933" />|<img alt="MySQL" width="103px" src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=#4EAA2" />|<img alt="Jest" width="120px" src="https://img.shields.io/badge/Jest%20Code-black?style=flat&logo=jest&logoColor=red" />|
+|<img alt="Java" width="93px" src="https://img.shields.io/badge/java-black?style=flat&logo=java&logoColor=#4EAA2" />|<img alt="CSS 3" width="93px" src="https://img.shields.io/badge/CSS%203-black?style=flat&logo=css3&logoColor=blue" />|<img alt="Express" width="109px" src="https://img.shields.io/badge/Express-black?style=flat&logo=Express&logoColor=#4EAA2" />|<img alt="MongoDB" width="124px" src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=MongoDB&logoColor=#4EAA2" />|<img alt="Mocha" width="120px" src="https://img.shields.io/badge/mocha-black?style=flat&logo=mocha&logoColor=#4EAA2" />|
+|<img alt="Python" width="109px" src="https://img.shields.io/badge/python-black?style=flat&logo=python&logoColor=#4EAA2" />|<img alt="React" width="90px" src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=#61DAFB" />|<img alt="Sequelize" width="120px" src="https://img.shields.io/badge/sequelize-black?style=flat&logo=sequelize&logoColor=#4EAA2" />||<img alt="Chai" width="93px" src="https://img.shields.io/badge/chai-black?style=flat&logo=chai&logoColor=#4EAA2" />|
+
+<!-- |Linguagens|Front-End|Back-End|Banco de Dados|Testes|
+|---|---|---|---|---|
 |![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)|![HTML 5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)|![NodeJs](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)|![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)|![jest](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg)|
 |![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)|![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)|![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg)|![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)|![Mocha](https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg)|
-|![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)|![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)|![Sequelize](https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg)||![Chai](https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg)|
+|![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)|![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)|![Sequelize](https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg)||![Chai](https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg)| -->
 
 
 <!-- ### **Linguagens**
