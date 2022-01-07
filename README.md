@@ -13,22 +13,21 @@ Contente por te ver aqui!  ![visitors](https://visitor-badge.glitch.me/badge?pag
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📝 Veja meu Currículo <a href="https://bit.ly/3zNdx2G" target="_blank">clicando aqui</a> para mais informações.
-<br>
 
 Mande uma mensagem!!!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/matheus-schreiner/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusrubisch@gmail.com)
+---
 
-----
-
-## **Tecnologias e Ferramentas:** 
-
+### **Tecnologias e Ferramentas:** 
+<!--
 |Linguagens|Front-End|Back-End|Banco de Dados|Testes|
 |---|---|---|---|---|
 |<img alt="Java Script" width="130px" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=#F7DF1E" />|<img alt="HTML 5" width="105px" src="https://img.shields.io/badge/HTML%205-black?style=flat&logo=html5&logoColor=#E34F26" />|<img alt="Node JS" width="108px" src="https://img.shields.io/badge/Node%20Js-black?style=flat&logo=node.js&logoColor=#339933" />|<img alt="MySQL" width="103px" src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=#4EAA2" />|<img alt="Jest" width="83px" src="https://img.shields.io/badge/Jest-black?style=flat&logo=jest&logoColor=red" />|
 |<img alt="Java" width="86px" src="https://img.shields.io/badge/Java-black?style=flat&logo=Java&logoColor=#4EAA2" />|<img alt="CSS 3" width="93px" src="https://img.shields.io/badge/CSS%203-black?style=flat&logo=css3&logoColor=blue" />|<img alt="Express" width="109px" src="https://img.shields.io/badge/Express-black?style=flat&logo=Express&logoColor=#4EAA2" />|<img alt="MongoDB" width="124px" src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=MongoDB&logoColor=#4EAA2" />|<img alt="Mocha" width="110px" src="https://img.shields.io/badge/Mocha-black?style=flat&logo=Mocha&logoColor=#4EAA2" />|
 |<img alt="Python" width="103px" src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=#4EAA2" />|<img alt="React" width="97px" src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=#61DAFB" />|<img alt="Sequelize" width="125px" src="https://img.shields.io/badge/Sequelize-black?style=flat&logo=Sequelize&logoColor=#4EAA2" />||<img alt="Chai" width="85px" src="https://img.shields.io/badge/Chai-black?style=flat&logo=Chai&logoColor=#4EAA2" />|
+-->
 
 <!-- |Linguagens|Front-End|Back-End|Banco de Dados|Testes|
 |---|---|---|---|---|
@@ -86,7 +85,7 @@ Mande uma mensagem!!!
   <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg">
 </p> -->
 
-<!-- <p align="left">
+ <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -98,7 +97,7 @@ Mande uma mensagem!!!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> 
-</p> -->
+</p>
 
 <br>
 
