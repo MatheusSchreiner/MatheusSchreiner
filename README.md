@@ -7,7 +7,7 @@ Olá, me chamo **Matheus Schreiner**, sou de Minas Gerais - Brasil e atualmente 
 <img align="right" alt="GIF" src="https://github.com/MatheusSchreiner/MatheusSchreiner/blob/main/gifs/rick.gif" width="350" />
 <br>
 
-Contente por te ver aqui!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${MatheusSchreiner}.${380019460})
+Contente por te ver aqui!
 
 - 🤔 Meus hobbies são Trilhas, Jogos online e uma boa Comida;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
