@@ -100,12 +100,3 @@ Mande uma mensagem!!!
 </p>
 
 <br>
-
- <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSchreiner&langs_count=4&layout=compact&theme=tokyonight"
-  height="140em"
- />
- <img  
-  src="https://github-readme-stats.vercel.app/api?username=MatheusSchreiner&show_icons=true&theme=tokyonight&hide=stars,issues&custom_title=Git Status"  
-  height="140em"
- />
